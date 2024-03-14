@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Spichon6 (or Steven)
+- 👋 Hi, I’m @WanderingHedgie
 - 👀 I’m interested in bioinformatics, programming, new technologies, astronomy and other stuffs
 - 🌱 I’m currently learning C++, Python, Bash
 - 👨‍🎓 I'm currently studying in bioinformatics
